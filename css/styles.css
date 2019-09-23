@@ -2,6 +2,28 @@ body{
  text-align: center;
 }
 
+h1{
+  line-height: 2;
+  color: #66BFBF;
+  margin: 50px,auto,0px,auto;
+  margin: 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 100px;
+}
+
 .middle-section{
   background-color: white;
   margin-left: 30px;

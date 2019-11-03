@@ -2,26 +2,41 @@ body{
  text-align: center;
 }
 
-h1{
-  line-height: 2;
-  color: #66BFBF;
-  margin: 50px,auto,0px,auto;
-  margin: 0 auto;
-  font-size: 5.625rem;
-  font-family: 'Sacramento', cursive;
+.navbar{
+  padding:0 0 1.5rem;
 }
 
-h2{
-  color:#66BFBF;
-  font-family: 'Montserrat', sans-serif;
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
   font-size: 2.5rem;
-  font-weight: normal;
+  font-weight: bold;
+  padding-left: 15px;
 }
 
-.top-container{
-  background-color: #E4F9F5;
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+}
+
+.graphic_designer{
+  width: 100%;
+
+}
+
+.header-container{
   position: relative;
-  padding: 100px;
+}
+
+.text_block{
+  position: absolute;
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 7em;
+  bottom: 35%;
+  right: 25%;
 }
 
 .middle-section{
